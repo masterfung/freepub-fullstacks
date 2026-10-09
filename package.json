@@ -25,7 +25,7 @@
     "@web3auth/torus-evm-adapter": "^4.6.0",
     "@web3auth/torus-wallet-connector-plugin": "^4.6.0",
     "@web3auth/wallet-connect-v1-adapter": "^4.6.0",
-    "axios": "^1.3.4",
+    "axios": "^1.20.0",
     "bs58": "^5.0.0",
     "dotenv": "^16.0.3",
     "eslint-plugin-jest": "^27.2.1",
